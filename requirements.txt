@@ -13,3 +13,5 @@ langchain-experimental
 
 # notebooks
 ipykernel
+
+missingno
